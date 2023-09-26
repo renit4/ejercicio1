@@ -1,4 +1,2 @@
-Para clonar el repositorio al repositorio remoto de github utilice el
-github desktop, dentro lo clone copiando la url del repositorio web 
-en el desktop. Luego esto lo estoy escribiendo en el blog de notas, este 
-blog lo subo al desktop y finalmente lo envio al repositorio web.
+renit4
+goomezrenna@gmai.com
